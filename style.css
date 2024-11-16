@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blue;
+    margin: 0;
+}
+
+button {
+    color: aquamarine;
+    background-color: brown;
+}
+
+.container {
+    text-align: center;
+    background: skyblue;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.weather-result {
+    margin-top: 20px;
+}
+
+.weather-result p {
+    margin: 5px 0;
+}
